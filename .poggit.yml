@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   DisableJoinMessage:
-    path: EinfachWolf-codeZ/DisableJoinMessages
+    path: ""
 ...
