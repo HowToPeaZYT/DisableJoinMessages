@@ -1,6 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/EinfachWolf-codeZ/DisableJoinMessages
 branches:
 - master
-projects: []
+projects:
+  DisableJoinMessage:
+    path: EinfachWolf-codeZ/DisableJoinMessages
 ...
-
